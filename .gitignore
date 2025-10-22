@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# Node
+node_modules/
+frontend/.next/
+
+# Local config
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# other
+*.lock
